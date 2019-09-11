@@ -12,7 +12,7 @@ https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 | Validation Image Set Size| 150 | 150 | 150 | 150 |
 | Test Image Set Size | 200 | 200 | 200 | 200 |
 
-<br>
+
 # 목차
 </br>
 
