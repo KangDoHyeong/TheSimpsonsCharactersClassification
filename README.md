@@ -4,6 +4,8 @@ https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 
 <img src = './The Simpsons Kaggle screen shot.jpg' width='100%' height='50%'>
 
+<br></br>
+
 ## Data Set Size
 
 </br>
@@ -16,7 +18,9 @@ https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 | Test Image Set Size | 200 | 200 | 200 | 200 |
 
 
-## index
+<br></br>
+
+## Index
 <br>
 
 1. Data Preprocessing <br>
