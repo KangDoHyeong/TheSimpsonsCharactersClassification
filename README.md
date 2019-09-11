@@ -19,8 +19,8 @@ https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 ## index
 <br>
 
-1. 데이터 전처리<br>
-2.  Grey Scale Model Training & Full Color Model Training <br>
+1. Data Preprocessing <br>
+2. Grey Scale Model Training & Full Color Model Training <br>
 3. Predict & <br>
 4. Conclusion <br>
-5. 심슨 머신을 이용한 중간층의 활성화 시각화
+5. 머신을 이용한 중간층의 활성화 시각화
