@@ -5,7 +5,9 @@ https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 <img src = './The Simpsons Kaggle screen shot.jpg' width='100%' height='50%'>
 
 ## Data Set Size
-<br>
+
+</br>
+
 | Charactor | Homer Simpson | Lisa Simpson | Bart Simpson | Marge Simpson |
 |--------:|--------|--------|:--------|--------|
 | Totla Image Set Size| 2246 | 1354 | 1342 | 1291 |
