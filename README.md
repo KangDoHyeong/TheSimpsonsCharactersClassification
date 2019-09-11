@@ -1,10 +1,11 @@
-# temp
-temptemp
+## Data Source
 
 https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 
 <img src = './The Simpsons Kaggle screen shot.jpg' width='100%' height='50%'>
 
+## Data Set Size
+<br>
 | Charactor | Homer Simpson | Lisa Simpson | Bart Simpson | Marge Simpson |
 |--------:|--------|--------|:--------|--------|
 | Totla Image Set Size| 2246 | 1354 | 1342 | 1291 |
@@ -13,8 +14,8 @@ https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 | Test Image Set Size | 200 | 200 | 200 | 200 |
 
 
-# 목차
-</br>
+## index
+<br>
 
 1. 데이터 전처리<br>
 2.  Grey Scale Model Training & Full Color Model Training <br>
